@@ -12,5 +12,5 @@ l | ӏ
 n | ո
 o | o
 x | x
-w | w
 x | x
+v | v
